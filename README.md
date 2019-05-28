@@ -80,7 +80,7 @@
 - 免费下载
 - 带精确地理坐标
 - 1972 年 至 今 一直有图像数据
-- Landsat 1 卫星发射于 1972 年，若还有更早的且可免费获取的卫星图像，请告诉我（issue）
+- Landsat 1 卫星发射于 1972 年，若还有更早的且可免费获取的卫星图像，请告诉我（[issue](https://github.com/vikyd/shenzhen-reclamation/issues/new)）
 
 
 # 其他
