@@ -4,6 +4,7 @@
 ![1973 Landsat vs 2016 ArcGISMap 动图](https://github.com/vikyd/shenzhen-reclamation/raw/master/gif/1973landsat_vs_2016arcgismap.gif)
 
 
+![1973 Landsat vs 2016 ArcGISMap 地点](https://github.com/vikyd/shenzhen-reclamation/raw/master/jpg/1973landsat_vs_2016arcgismap_POI.jpg)
 
 # 1973 年卫星图
 - 年份：1973 年
