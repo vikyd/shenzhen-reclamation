@@ -86,3 +86,4 @@
 # 其他
 - Landsat 卫星图像的命名规则
   - https://landsat.usgs.gov/what-are-naming-conventions-landsat-scene-identifiers
+- 深圳机场宝安国际机场实际也有大半是填海填出来的，但重点是南山区的填海，若地图包含深圳机场，可能突出不了重点，有兴趣可自行下载原图查看机场的填海
