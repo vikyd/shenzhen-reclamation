@@ -86,4 +86,3 @@
 # 其他
 - Landsat 卫星图像的命名规则
   - https://landsat.usgs.gov/what-are-naming-conventions-landsat-scene-identifiers
-- Google 地图与 1973 Landsat卫星图略有偏移，估计是因为 Google 用了墨卡托投影，而 Landsat 图像用的是 UTM。不过卫星图1973 vs 2016是没有偏移的。
